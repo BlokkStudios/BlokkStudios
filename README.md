@@ -1,7 +1,7 @@
 ## Olá, somos a Blokk Studios Software House! 👋
 
 <p align="left"> 
-Somos uma equipe dinâmica e inovadora especializada em soluções de software full stack. Fundada em [ano de fundação], nossa missão é desenvolver soluções tecnológicas eficientes e inovadoras para uma variedade de desafios do mundo digital.
+Somos uma equipe dinâmica e inovadora especializada em soluções de software full stack. Fundada em 2024, nossa missão é desenvolver soluções tecnológicas eficientes e inovadoras para uma variedade de desafios do mundo digital.
 
 Nossa expertise abrange desde o desenvolvimento de aplicativos até soluções de back-end robustas, sempre com foco em entregar produtos de alta qualidade que atendam às necessidades específicas de nossos clientes.
 
