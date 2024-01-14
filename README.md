@@ -1,5 +1,4 @@
-## Olá, somos a Blokk Studios Software House! 👋
-
+##  <img src="./icons8-bot.gif"/> Olá, somos a Blokk Studios Software House!
 <p align="left"> 
 Somos uma equipe dinâmica e inovadora especializada em soluções de software full stack. Fundada em 2024, nossa missão é desenvolver soluções tecnológicas eficientes e inovadoras para uma variedade de desafios do mundo digital.
 
@@ -49,3 +48,5 @@ Estamos sempre em busca de novas tecnologias e tendências para garantir que nos
 <p align="center">
   <!-- Aqui você pode adicionar troféus do GitHub ou outras conquistas, se desejar -->
 </p>
+
+<a target="_blank" href="https://icons8.com/icon/1RueIplXPGd2/chatbot">Bot</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
