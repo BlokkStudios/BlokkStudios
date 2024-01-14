@@ -1,4 +1,4 @@
-##  <img src="./icons8-bot.gif"/> Olá, somos a Blokk Studios Software House!
+##  <img src="./gifs/icons8-bot.gif"/> Olá, somos a Blokk Studios Software House!
 
  <img align="right" src="./LOGO_FINAL_-_BLOKK-removebg.png"/>
 
