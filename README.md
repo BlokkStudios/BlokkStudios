@@ -1,7 +1,5 @@
 ## Olá, somos a Blokk Studios Software House! 👋
 
-![Logotipo da Blokk Studios](link-para-o-logotipo)
-
 <p align="left"> 
 Somos uma equipe dinâmica e inovadora especializada em soluções de software full stack. Fundada em [ano de fundação], nossa missão é desenvolver soluções tecnológicas eficientes e inovadoras para uma variedade de desafios do mundo digital.
 
