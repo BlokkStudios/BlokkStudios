@@ -30,11 +30,9 @@ Estamos sempre em busca de novas tecnologias e tendências para garantir que nos
   💌 Se você tem interesse em nossos serviços ou deseja saber mais, fique à vontade para entrar em contato: ⤵️
 </p>
 
-<a href="mailto:contato@blokkstudios.com" title="Email" target="_blank">
+<a href="mailto:blokk.softhouse@gmail.com" title="Email" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<a href="https://www.linkedin.com/in/blokkstudios/" title="LinkedIn" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br>
 
