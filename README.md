@@ -1,6 +1,6 @@
 ##  <img src="./gifs/icons8-bot.gif"/> Olá, somos a Blokk Studios Software House!
 
- <img align="right" width="400" src="svg/BLOKK-LOGO.svg"/>
+ <img align="right" width="410" src="svg/BLOKK-LOGO.svg"/>
 
 <p align="justify"> 
 Somos uma equipe dinâmica e inovadora especializada em soluções de software full stack. Fundada em 2024, nossa missão é desenvolver soluções tecnológicas eficientes e inovadoras para uma variedade de desafios do mundo digital.
